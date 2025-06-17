@@ -1,0 +1,229 @@
+remember
+remind
+recall
+recalled
+you said
+you mentioned
+as you said
+as mentioned
+you told me
+you previously said
+we discussed
+discussed before
+we talked about
+as discussed
+you brought up
+talked about
+mentioned earlier
+remember when
+bring up again
+like before
+we already talked
+previously noted
+recall that
+reflect on
+earlier point
+prior message
+from last time
+earlier conversation
+earlier discussion
+conversation history
+previous exchange
+earlier context
+previously mentioned
+mentioned earlier
+in the past
+you noted
+before now
+back then
+past context
+contextual clue
+prior knowledge
+earlier reply
+we were talking
+as stated
+stated before
+you once said
+I said before
+just like earlier
+earlier idea
+prior answer
+revisit
+revisiting
+circle back
+loop back
+refer back
+callback
+you may recall
+from earlier
+previously
+last conversation
+last reply
+you remember
+prior info
+like we discussed
+touching back
+historically
+from our chat
+earlier input
+same topic
+similar context
+same discussion
+linked idea
+related point
+before that
+previous note
+recap
+let’s recap
+review
+overview
+summarize
+summary
+reflection
+revisiting
+go back
+let’s go back
+look back
+analyze
+evaluation
+evaluate
+analyzing
+investigate
+investigation
+compare
+comparison
+contextualize
+retrospective
+refresher
+highlight
+highlighted
+attention
+pay attention
+draw attention
+focus
+focus on
+center on
+emphasis
+emphasize
+important
+urgency
+urgent
+critical
+top priority
+time-sensitive
+priority
+pressing
+key point
+essential
+vital
+paramount
+notable
+noteworthy
+significant
+must remember
+high priority
+immediate
+imperative
+core idea
+main topic
+major issue
+big deal
+asap
+reminder
+create reminder
+remind me
+set reminder
+make note
+note
+noted
+take note
+noteworthy
+jot down
+capture
+record
+save
+remember this
+log
+log this
+write this down
+bookmark
+mark this
+flag this
+track
+keep in mind
+mental note
+store this
+store
+save this
+retain
+keep track
+memo
+todo
+to-do
+task
+checklist
+item
+list item
+bullet point
+bullet
+step
+step 1
+first step
+next step
+follow up
+continuation
+continuing
+follow-up
+track this
+update
+next move
+plan
+planning
+timeline
+time frame
+sequence
+chronology
+order
+flow
+progress
+thread
+threaded
+linked
+linked topic
+connected
+connected idea
+relevant
+related
+associated
+correlated
+tied to
+ties into
+context
+this context
+same context
+existing context
+previous context
+conversation thread
+flow of conversation
+dialog history
+dialogue chain
+chain of thought
+stateful
+context-aware
+session-aware
+topic continuity
+history awareness
+state tracking
+state memory
+memory-aware
+personalization
+user-specific
+conversation memory
+session memory
+persistent memory
+persistent context
+prior thread
+stored knowledge
+ongoing thread
+follow the thread
+keep context
